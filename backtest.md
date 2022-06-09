@@ -37,8 +37,6 @@ $$ \mu_{V^w} := \frac{1}{N} \sum_{t=1}^N \frac{V_t - V_{t-1}}{V_{t-1}} = \frac{1
 $$ \sigma_{V^w}^2 := \frac{1}{N-1} \sum_{t=1}^N (w_t^\top R_t - \mu_{V^w})^2 $$
 $$ SR := \frac{\mu_{V^w}}{\sigma_{V^w}} $$
 
-
-$$ \begin{align*} & \mu_{V^w} := \frac{1}{N} \sum_{t=1}^N \frac{V_t - V_{t-1}}{V_{t-1}} = \frac{1}{N} \sum_{t=1}^N w_t^\top R_t \\ & \sigma_{V^w}^2 := \frac{1}{N-1} \sum_{t=1}^N (w_t^\top R_t - \mu_{V^w})^2 \\ & SR := \frac{\mu_{V^w}}{\sigma_{V^w}} \end{align*} $$
 端的にいえば、リスク調整後リターンはポートフォリオのリターンをリスクで割ったものである。
 同じリターンのポートフォリオならば、リスクが大きいほうがリスク調整後リターンは小さくなる。
 従って、リスクとリターンの効率性を見ることができる。
@@ -48,14 +46,7 @@ $$ \begin{align*} & \mu_{V^w} := \frac{1}{N} \sum_{t=1}^N \frac{V_t - V_{t-1}}{V
 バックテストにおけるシャープレシオとも呼ばれる場合がある。
 しかし、定義の仕方が異なるため、リスク調整後リターンと呼ぶ方が無難である。
 
-
 ソルティレシオ $SR^-$ とはリスク調整後リターンにおける分散を下方半分散に置き換えたものである。
 これは、リターンの上振れはリスクと見做さない方法の一つである。
-
-$$
-\begin{align*}
-& (\sigma_{V^w}^-)^2 := \frac{1}{N-1} \sum_{t=1}^N (w_t^\top R_t - \mu_{V^w})_+^2 \\
-& SR^- := \frac{\mu_{V^w}}{\sigma_{V^w}^-}
-\end{align*}
-$$
-
+$$ (\sigma_{V^w}^-)^2 := \frac{1}{N-1} \sum_{t=1}^N (w_t^\top R_t - \mu_{V^w})_+^2 $$
+$$ SR^- := \frac{\mu_{V^w}}{\sigma_{V^w}^-} $$
