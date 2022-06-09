@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# ゼミ・卒研のサポート用ページ
 
-You can use the [editor on GitHub](https://github.com/Masashi-Ieda/seminar_support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ゼミ・卒研でコードを書くときに知っておくと便利なことを記載します。（随時更新）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Python / JupyterNotebook 関連
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### TIPs
 
-```markdown
-Syntax highlighted code block
+| ファイル名        | 説明                                   | 
+| ----------------- | -------------------------------------- | 
+| [colab.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/ipynb/colab.ipynb) | Google Colaboratory 使用時のtipsまとめ | 
+| [graph_intro.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/ipynb/graph_intro.ipynb)  | Pythonでグラフを書く方法（入門編） | 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Python の練習問題
 
-1. Numbered
-2. List
+Pythonの復習をするための練習問題
 
-**Bold** and _Italic_ and `Code` text
+| ファイル名        | 説明                                   | 
+| ----------------- | -------------------------------------- | 
+| [practice_loop.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/practice_python/practice_loop.ipynb) | 多重ループの練習問題 | 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 外部サイト
+- [Python早見帳](https://chokkan.github.io/python/index.html)
+- [「Python ゼロからはじめるプログラミング」サポートページ](https://mitani.cs.tsukuba.ac.jp/book_support/python/)
+- [データ分析のための統計学入門](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Masashi-Ieda/seminar_support/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Latex 関連
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+はじめはオンラインのlatex環境を使ってみるといいでしょう
+- [Overleaf](https://ja.overleaf.com/) 
+- [CloudLatex](https://cloudlatex.io/) : 初心者はコチラがいいかも？
+
+プレゼンテーションは `latex beamer` を使うとキレイでとても良い
+
+（必要に応じて記述を増やします）
+
+
+## その他
+- なぜGithub使ってるの？
+  - `ipynb` のプレビューが出てくる
+  - Markdownで書けるので楽
+
