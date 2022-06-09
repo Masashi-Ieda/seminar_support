@@ -28,6 +28,17 @@ Pythonの復習をするための練習問題
 - [データ分析のための統計学入門](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf)
 
 
+## とりあえず作ったもの （そのうち体系立てて整理したい）
+
+### バックテスト関連
+| ファイル名        | 説明                                   | 
+| ----------------- | -------------------------------------- | 
+| [backtest_intro.xlsx](https://docs.google.com/spreadsheets/d/1HrTO9VUYfWfUYv02ihmOAAi2FRtRhtzeAyQCWrwzFTs/edit?usp=sharing) | 資産投資のバックテスト: 直感的な導入 | 
+| [backtest.md]()  | バックテスト方法と評価基準について | 
+
+
+
+
 
 ## Latex 関連
 
