@@ -33,11 +33,7 @@ $$ V_t = V_{t-1} (1+w_t^\top R_t), \quad t \in \{1,2,\cdots,N \} $$
 ## リスク調整後リターンとソルティノレシオ
 
 リスク調整後リターン $SR$ は各時点でのポートフォリオ・リターンの標本平均と標本分散で定義する。
-$$ \begin{align*}
-& \mu_{V^w} := \frac{1}{N} \sum_{t=1}^N \frac{V_t - V_{t-1}}{V_{t-1}} = \frac{1}{N} \sum_{t=1}^N w_t^\top R_t \\
-& \sigma_{V^w}^2 := \frac{1}{N-1} \sum_{t=1}^N (w_t^\top R_t - \mu_{V^w})^2 \\
-& SR := \frac{\mu_{V^w}}{\sigma_{V^w}}
-\end{align*} $$
+$$ \begin{align*} & \mu_{V^w} := \frac{1}{N} \sum_{t=1}^N \frac{V_t - V_{t-1}}{V_{t-1}} = \frac{1}{N} \sum_{t=1}^N w_t^\top R_t \\ & \sigma_{V^w}^2 := \frac{1}{N-1} \sum_{t=1}^N (w_t^\top R_t - \mu_{V^w})^2 \\ & SR := \frac{\mu_{V^w}}{\sigma_{V^w}} \end{align*} $$
 端的にいえば、リスク調整後リターンはポートフォリオのリターンをリスクで割ったものである。
 同じリターンのポートフォリオならば、リスクが大きいほうがリスク調整後リターンは小さくなる。
 従って、リスクとリターンの効率性を見ることができる。
