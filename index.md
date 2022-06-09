@@ -18,7 +18,7 @@ Pythonの復習をするための練習問題
 
 | ファイル名        | 説明                                   | 
 | ----------------- | -------------------------------------- | 
-| [practice_loop.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/practice_python/practice_loop.ipynb) | 多重ループの練習問題 | 
+| [practice_loop.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/practice_python/practice_loop.ipynb){:target="_blank"} | 多重ループの練習問題 | 
 
 
 ### 外部サイト
