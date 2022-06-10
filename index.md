@@ -8,7 +8,7 @@
 
 以下の見てみよう!
 - [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"} （**超おすすめ！**）
-- 1年次
+- これまでに受けてきたプログラミング関連の講義の資料
 
 ### TIPs
 
