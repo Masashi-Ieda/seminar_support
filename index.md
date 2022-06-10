@@ -4,6 +4,12 @@
 
 ## Python / JupyterNotebook 関連
 
+### Python 全部忘れた or 何もわからん
+
+以下の見てみよう!
+- [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"} （**超おすすめ！**）
+- 1年次
+
 ### TIPs
 
 | ファイル名        | 説明                                   | 
@@ -22,7 +28,7 @@ Pythonの復習をするための練習問題
 
 
 ### 外部サイト
-- [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"} （**超おすすめ！**）
+- 
 - [「Python ゼロからはじめるプログラミング」サポートページ](https://mitani.cs.tsukuba.ac.jp/book_support/python/){:target="_blank"}
 - [データ分析のための統計学入門](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf){:target="_blank"}
 
