@@ -6,9 +6,10 @@
 
 ### Python 全部忘れた or 何もわからん
 
-以下の見てみよう!
-- [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"} （**超おすすめ！**）
-- これまでに受けてきたプログラミング関連の講義の資料
+- 以下の資料で復習しよう!
+  - [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"} （**超おすすめ！**）
+  - これまでに受けてきたプログラミング関連の講義の資料
+- プログラム書くときは　[Google Colab](https://colab.research.google.com/?hl=ja){:target="_blank"}を使おう！
 
 ### TIPs
 
