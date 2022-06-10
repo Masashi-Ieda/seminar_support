@@ -28,7 +28,6 @@ Pythonの復習をするための練習問題
 
 
 ### 外部サイト
-- 
 - [「Python ゼロからはじめるプログラミング」サポートページ](https://mitani.cs.tsukuba.ac.jp/book_support/python/){:target="_blank"}
 - [データ分析のための統計学入門](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf){:target="_blank"}
 
