@@ -8,6 +8,7 @@
 
 - 以下の資料で復習しよう!
   - [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"} （**超おすすめ！**）
+  - [退屈なことはPythonにやらせよう](https://www.oreilly.co.jp/books/9784873117782/){:target="_blank"}
   - これまでに受けてきたプログラミング関連の講義の資料
 - プログラム書くときは　[Google Colab](https://colab.research.google.com/?hl=ja){:target="_blank"}を使おう！
 
@@ -40,15 +41,14 @@ Pythonの復習をするための練習問題
 
 ### バックテスト関連
 
-- 下の `backtest.md` だけ見てわかるなら、それでOK
-- 上の `backtest_intro`　は具体例で説明しているので、多分分かりやすいはず
 
 | ファイル名        | 説明                                   | 
 | ---------------- | -------------------------------------- | 
 | [backtest_intro](https://docs.google.com/spreadsheets/d/1HrTO9VUYfWfUYv02ihmOAAi2FRtRhtzeAyQCWrwzFTs/edit?usp=sharing){:target="_blank"} | 資産投資のバックテスト: 直感的な導入(Googleスプレッドシート) | 
 | [backtest.md](https://github.com/Masashi-Ieda/seminar_support/blob/main/backtest.md){:target="_blank"}  | バックテスト方法と評価基準について | 
 
-
+- 下の `backtest.md` だけ見てわかるなら、それでOK
+- 上の `backtest_intro`　は具体例で説明しているので、多分分かりやすいはず
 
 
 
