@@ -19,7 +19,7 @@
 | [colab.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/ipynb/colab.ipynb){:target="_blank"} | Google Colaboratory 使用時のtipsまとめ | 
 | [graph_intro.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/ipynb/graph_intro.ipynb){:target="_blank"}  | Pythonでグラフを書く方法（入門編） | 
 | [ts_data_intro_1.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/ipynb/ts_data_intro_1.ipynb){:target="_blank"}  | 時系列データ処理入門（その1）| 
-
+| [ts_data_intro_2.ipynb](https://github.com/Masashi-Ieda/seminar_support/blob/main/ipynb/ts_data_intro_2.ipynb){:target="_blank"}  | 時系列データ処理入門（その2）| 
 
 ### Python の練習問題
 
