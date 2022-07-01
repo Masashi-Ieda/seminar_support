@@ -53,7 +53,7 @@ Pythonの復習をするための練習問題
 
 ### ゼミの準備の仕方
 
-- [セミナーの準備のしたかについて](https://www.ms.u-tokyo.ac.jp/~yasuyuki/sem.htm)
+- [セミナーの準備のしたかについて](https://www.ms.u-tokyo.ac.jp/~yasuyuki/sem.htm){:target="_blank"}
   - セミナー準備の有名な記事 (東大の河東先生著)
   - 本研究室ではここまでは要求しませんが、心意気は理解してほしい
 
