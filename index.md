@@ -5,9 +5,11 @@
 ## Python / JupyterNotebook 関連
 
 ### Python 全部忘れた or 何もわからん
-
-- 以下の資料で復習しよう!
-  - [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"} （**超おすすめ！**）
+- **[東京大学のデータサイエンティスト育成講座](https://book.mynavi.jp/ec/products/detail/id=102631){:target="_blank"} をやろう**
+  - 多分これが一番取っ掛かりやすい気がします。
+  - 演習問題を解答を見ながらでOKなので解いてマスターしましょう。
+- 以下の資料での復習も良いかも
+  - [Python早見帳](https://chokkan.github.io/python/index.html){:target="_blank"}
   - [退屈なことはPythonにやらせよう](https://www.oreilly.co.jp/books/9784873117782/){:target="_blank"}
   - これまでに受けてきたプログラミング関連の講義の資料
 - プログラム書くときは　[Google Colab](https://colab.research.google.com/?hl=ja){:target="_blank"}を使おう！
